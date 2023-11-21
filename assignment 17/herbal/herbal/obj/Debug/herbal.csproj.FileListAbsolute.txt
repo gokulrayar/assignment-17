@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\herbal\herbal\bin\Debug\herbal.exe.config
+C:\Users\rayar\source\repos\herbal\herbal\bin\Debug\herbal.exe
+C:\Users\rayar\source\repos\herbal\herbal\bin\Debug\herbal.pdb
+C:\Users\rayar\source\repos\herbal\herbal\obj\Debug\herbal.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\herbal\herbal\obj\Debug\herbal.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\herbal\herbal\obj\Debug\herbal.exe
+C:\Users\rayar\source\repos\herbal\herbal\obj\Debug\herbal.pdb
